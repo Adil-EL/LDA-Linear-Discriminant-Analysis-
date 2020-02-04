@@ -1,6 +1,6 @@
 My_AFD<-function(data_table,Chien,Loup,genre,names,centree=T,Reduit=T) {#,genre,names)
                 
-  
+   # This code is adapted to the attached data set
   #variables globales
   
   
